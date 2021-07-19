@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-website1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsbyWebsite1",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^3.9.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
